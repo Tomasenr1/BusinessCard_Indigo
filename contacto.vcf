@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rotllant;Tomás;;;
+FN:Tomás Rotllant
+ORG:INDIGO IA
+TITLE:Especialista en Soluciones IA
+TEL;TYPE=CELL,VOICE:+5491141411679
+EMAIL;TYPE=WORK,INTERNET:tomas@indigoia.ar
+URL;TYPE=WORK:https://www.indigoia.ar
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/tomas-rotllant-865176296/
+ADR;TYPE=WORK:;;;Buenos Aires;Provincia de Buenos Aires;;Argentina
+END:VCARD
